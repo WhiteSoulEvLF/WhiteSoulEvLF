@@ -5,15 +5,12 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India ❤️</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whitesoulevlf&label=Profile%20views&color=0e75b6&style=flat" alt="whitesoulevlf" /> </p>
-
 # 💫 About Me:
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Ask me about <b>Html & Css</b>.<br/>
 • 📫 Reach me out
 
 
