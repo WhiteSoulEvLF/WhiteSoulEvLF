@@ -10,6 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitesoulevlf&label=Profile%20views&color=0e75b6&style=flat" alt="whitesoulevlf" /> </p>
 
 # 💫 About Me:
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 🔭 I’m currently work on Website.<br>👯 I’m looking to collaborate on Html & Css-related work.<br>🤝 I’m looking for help with java. <br>🌱 I’m currently learing in Class X from CBSE Board.<br>💬 Ask me about Html and Css.
 
 
